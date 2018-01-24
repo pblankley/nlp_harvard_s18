@@ -1,0 +1,49 @@
+NLP Notes: Sasha Rush
+
+Intro lecture:
+Will get to the cutting edge by the midterm
+nlp to discover structure of the world, nlp for speech recognition, machine translation
+
+turing test
+probabilistic modeling given previous n words
+
+Class:
+read papers, implement everything, workshop new ideas 
+
+DL fundamentals: part 1
+paper and project: part 2
+
+topics:
+classification
+modeling
+transduction
+deep generative models
+
+hw:
+text classification due tuesday jan 30
+language modeling
+translation
+variational inference
+
+programming:
+pytorch
+group gpus
+first lab 1-2:30 friday
+
+Class focus:
+text generation
+- natural controllable accurate and efficient 
+
+w is 1xd and b is real 1x1
+phi maps from x to R->d
+
+vocab is usually 10,000
+
+model 1: bow
+model 2: bog of bigrams
+model 3: word embeddings
+model 4: word embedding + 
+    we learn the embeddings as well (makes the optimization non convex)
+
+
+
