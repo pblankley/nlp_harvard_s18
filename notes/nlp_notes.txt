@@ -45,5 +45,8 @@ model 3: word embeddings
 model 4: word embedding + 
     we learn the embeddings as well (makes the optimization non convex)
 
+Reason for class:
+I am interested in taking this class because I will learn how to quickly read and understand cutting edge academic literature in NLP.  I can currently read and understand many academic papers, but I will learn how to do this efficiently and with a greater level of understanding through this class. This class will give me research and implementation experience that will be transformative for the level of research I am able to perform. I am interested in NLP in general because it strikes me as one of the most pertinent fields in applying machine learning to real life scenarios, because humans communicate and relate to each other using natural language. This course will give me the toolkit to approach a wide range of NLP problems.  I am especially interested in NLP problems that relate to financial statement and earnings call analysis, specifically text generation to summarize actionable insights from this data.
+
 
 
